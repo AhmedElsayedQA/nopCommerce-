@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="21.905" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="User should be able to add products to the wishlist" name="Check if product is added to wishlist" time="21.456">
+<system-out><![CDATA[
+When user clicks on add to wishlist icon....................................passed
+Then user navigate to wishlist page.........................................passed
+Then element should be added to wishlist....................................passed
+]]></system-out>
+</testcase>
+</testsuite>
